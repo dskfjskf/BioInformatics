@@ -104,11 +104,6 @@ long long int CountingPeptidesWithGivenMass(int n)
 {
 	map<int, long long int> mas;	
 
-/*	for (int i = 0; i < 20; i++)
-	{
-		mas[stoi(TS.substr(i * 6 + 2, 3))]++;
-	}*/	
-
 	mas[0] = 1;
 
 	for (int i = 57; i < n + 1; i++)
