@@ -130,9 +130,9 @@ int main()
 	//cin >> n;
 	//cout << SubpeptidesCount(n);
 
-	//string str = "LEQN";
+	string str = "NQEL";
 	//cin >> str;
-	//GeneratingTheoreticalSpectrum(str);
+	GeneratingTheoreticalSpectrum(str);
 
 	//int n = 1024;
 	//cin >> n;
